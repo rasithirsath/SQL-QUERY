@@ -1,4 +1,6 @@
- -- --create database--
+
+-- THIS IS SQL QUERY FOR BEGINNERS.. --
+-- --create database--
  
  create database first;
  
